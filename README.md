@@ -23,7 +23,7 @@ This project aims to provide a straightforward and easy-to-follow recipe for mak
 
 ## Usage
 
-To view the recipe, simply open the `index.html` file in your web browser. You can also access the live version of the webpage [here](https://pdineshmurugan.github.io/RecipePage/recipe-page-main/).
+To view the recipe, simply open the `index.html` file in your web browser. You can also access the live version of the webpage [here](https://pdineshmurugan.github.io/RecipePage/).
 
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your proposed changes. Contributions such as fixing bugs, improving styling, or adding new features are welcome!
 
